@@ -1,15 +1,16 @@
 <template>
-    <div class="w-full h-screen bg-center bg-cover bg-background">
-        <Navbar/>
-        <ContentOne/>
-        <AboutMain/>
-        <ProductMain/>
-        <PerMain/>
-        <BlogMain/>
-        <ReviewMain/>
-        <ContactContentMain/>
+    <div class="scroll-smooth">
+        <div class="w-full h-screen bg-center bg-cover bg-background">
+            <Navbar/>
+            <ContentOne/>
+            <AboutMain/>
+            <ProductMain/>
+            <PerMain/>
+            <BlogMain/>
+            <ReviewMain/>
+            <ContactContentMain/>
+        </div>
     </div>
-        
     
 </template>
 
