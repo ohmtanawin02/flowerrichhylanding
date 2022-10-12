@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-start pt-12 ml-20">
+    <div class="flex justify-start pt-12 ml-20" id="headproduct">
       <h1 class="text-green-a font-bold font-thai text-thirtytwo">
         สินค้า
       </h1>

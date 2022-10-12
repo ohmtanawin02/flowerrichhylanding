@@ -26,27 +26,27 @@
       },
       {
         name: "สินค้าและบริการของเรา",
-        link: "#head",
+        link: "#headproduct",
       },
       {
         name: "ผลงานของเรา",
-        link: "/performance",
+        link: "#perhead",
       },
       {
         name: "บทความและข่าวสาร",
-        link: "/blog",
+        link: "#headblog",
       },
       {
         name: "เกี่ยวกับเรา",
-        link: "/about",
+        link: "#headabout",
       },
       {
         name: "รีวิว",
-        link: "/review",
+        link: "#headreview",
       },
       {
         name: "ติดต่อ",
-        link: "/contact",
+        link: "#headContact",
       }
     ];
     </script>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container px-5 py-24 mx-auto">
+    <div class="container px-5 py-24 mx-auto" id="headblog">
       <div class="flex justify-start pt-12 mt-10">
         <h1 class="text-white font-bold text-thirtytwo font-thai">บทความ</h1>
       </div>

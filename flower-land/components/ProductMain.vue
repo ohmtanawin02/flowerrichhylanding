@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full h-screen bg-center bg-cover bg-product">
+    <div class="w-full h-screen bg-center bg-cover bg-product scroll-smooth">
         <ProductHead/>
         <ProductContent/>
         <ProductFooter/>

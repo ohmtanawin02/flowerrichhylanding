@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4" id="headContact">
       <div class="flex mt-20">
         <img src="/shop.png" alt="" />
         <div class="flex flex-col justify-start pl-20 mt-10">
