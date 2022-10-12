@@ -1,0 +1,3 @@
+ทำ responsive
+แล้วก็ scroll smooth 
+แล้วก็เอาขึ้น netlify กับ github

@@ -9,9 +9,9 @@
       <ul class="flex flex-row mr-4 mt-4 space-x-5 text-sm pl-20 font-light">
         <template :key="`navItem-${i}`" v-for="(n, i) in nav">
           <li class="nav-item pl-20 text-white font-thai pt-6 text-base">
-            <NuxtLink :to="n.link">
+            <a :href="n.link">
               {{ n.name }}
-            </NuxtLink>
+            </a>
           </li>
         </template>
       </ul>
@@ -26,7 +26,7 @@
       },
       {
         name: "สินค้าและบริการของเรา",
-        link: "/product",
+        link: "#head",
       },
       {
         name: "ผลงานของเรา",
